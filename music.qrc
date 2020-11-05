@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>ding-sound-effect_2.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ding-sound-effect_2.mp3</file>
+    </qresource>
+</RCC>
