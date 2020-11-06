@@ -6,4 +6,5 @@ After time is up, a 'ding' sound will be played.
 ![Image text](https://github.com/sjq-shanghai/CountDownClock_qt/blob/main/GUI.png)
 
 release version download package at:https://github.com/sjq-shanghai/CountDownClock_qt/releases/tag/release1.0
-Win64 executable in 'releases'.
+
+If you build application yourself, remember to copy the mp3 file to your release fold.
