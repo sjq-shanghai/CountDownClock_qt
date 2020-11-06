@@ -8,3 +8,4 @@ After time is up, a 'ding' sound will be played.
 release version download package at:https://github.com/sjq-shanghai/CountDownClock_qt/releases/tag/release1.0
 
 If you build application yourself, remember to copy the mp3 file to your release fold.
+If you want to change mp3 file,changing the code in mainwindow.cpp line 102.
